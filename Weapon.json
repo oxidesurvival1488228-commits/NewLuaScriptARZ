@@ -1,0 +1,500 @@
+{
+  "byId":[],
+  "nowGun":0,
+  "rpTakeNames":[["из-за спины","за спину"],["из кармана","в карман"],["из пояса","на пояс"],["из кобуры","в кобуру"]],
+  "gunActions":{
+    "on":[],
+    "off":[],
+    "partOff":[],
+    "partOn":[]
+  },
+  "list":[{
+      "enable":true,
+      "rpTake":2,
+      "name":"кулаки",
+      "id":0
+    },{
+      "enable":false,
+      "rpTake":2,
+      "name":"кастеты",
+      "id":1
+    },{
+      "enable":false,
+      "rpTake":1,
+      "name":"клюшку для гольфа",
+      "id":2
+    },{
+      "enable":true,
+      "rpTake":3,
+      "name":"дубинку",
+      "id":3
+    },{
+      "enable":false,
+      "rpTake":3,
+      "name":"острый нож",
+      "id":4
+    },{
+      "enable":false,
+      "rpTake":1,
+      "name":"биту",
+      "id":5
+    },{
+      "enable":true,
+      "rpTake":1,
+      "name":"лопату",
+      "id":6
+    },{
+      "enable":false,
+      "rpTake":1,
+      "name":"кий",
+      "id":7
+    },{
+      "enable":false,
+      "rpTake":1,
+      "name":"катану",
+      "id":8
+    },{
+      "enable":false,
+      "rpTake":1,
+      "name":"бензопилу",
+      "id":9
+    },{
+      "enable":false,
+      "rpTake":2,
+      "name":"игрушку",
+      "id":10
+    },{
+      "enable":false,
+      "rpTake":2,
+      "name":"большую игрушку",
+      "id":11
+    },{
+      "enable":false,
+      "rpTake":2,
+      "name":"моторную игрушку",
+      "id":12
+    },{
+      "enable":false,
+      "rpTake":2,
+      "name":"большую игрушку",
+      "id":13
+    },{
+      "enable":true,
+      "rpTake":1,
+      "name":"букет цветов",
+      "id":14
+    },{
+      "enable":false,
+      "rpTake":1,
+      "name":"трость",
+      "id":15
+    },{
+      "enable":false,
+      "rpTake":3,
+      "name":"осколочную гранату",
+      "id":16
+    },{
+      "enable":true,
+      "rpTake":3,
+      "name":"дымовую гранату",
+      "id":17
+    },{
+      "enable":true,
+      "rpTake":3,
+      "name":"коктейль Молотова",
+      "id":18
+    },{
+      "range":35,
+      "id":22,
+      "rpTake":4,
+      "enable":false,
+      "name":"пистолет Colt45"
+    },{
+      "range":35,
+      "id":23,
+      "rpTake":4,
+      "enable":true,
+      "name":"пистолет с глушителем"
+    },{
+      "range":35,
+      "id":24,
+      "rpTake":4,
+      "enable":true,
+      "name":"пистолет Desert Eagle"
+    },{
+      "range":40,
+      "id":25,
+      "rpTake":1,
+      "enable":true,
+      "name":"дробовик"
+    },{
+      "range":35,
+      "id":26,
+      "rpTake":4,
+      "enable":true,
+      "name":"обрез"
+    },{
+      "range":40,
+      "id":27,
+      "rpTake":1,
+      "enable":false,
+      "name":"улучшенный обрез"
+    },{
+      "range":35,
+      "id":28,
+      "rpTake":3,
+      "enable":true,
+      "name":"ПП Micro Uzi"
+    },{
+      "range":45,
+      "id":29,
+      "rpTake":4,
+      "enable":true,
+      "name":"ПП MP5"
+    },{
+      "range":65,
+      "id":30,
+      "rpTake":1,
+      "enable":true,
+      "name":"автомат AK47"
+    },{
+      "range":90,
+      "id":31,
+      "rpTake":1,
+      "enable":true,
+      "name":"автомат M4"
+    },{
+      "range":35,
+      "id":32,
+      "rpTake":4,
+      "enable":true,
+      "name":"ПП Tec9"
+    },{
+      "range":100,
+      "id":33,
+      "rpTake":1,
+      "enable":true,
+      "name":"винтовку Rifle"
+    },{
+      "range":100,
+      "id":34,
+      "rpTake":1,
+      "enable":true,
+      "name":"снайперскую винтовку"
+    },{
+      "range":55,
+      "id":35,
+      "rpTake":1,
+      "enable":false,
+      "name":"РПГ"
+    },{
+      "range":55,
+      "id":36,
+      "rpTake":1,
+      "enable":false,
+      "name":"ПТУР"
+    },{
+      "range":5.1,
+      "id":37,
+      "rpTake":1,
+      "enable":false,
+      "name":"огнемёт"
+    },{
+      "range":75,
+      "id":38,
+      "rpTake":1,
+      "enable":false,
+      "name":"миниган"
+    },{
+      "enable":false,
+      "rpTake":3,
+      "name":"динамит",
+      "id":39
+    },{
+      "enable":false,
+      "rpTake":3,
+      "name":"детонатор",
+      "id":40
+    },{
+      "range":6.1,
+      "id":41,
+      "rpTake":2,
+      "enable":true,
+      "name":"перцовый балончик"
+    },{
+      "range":10.1,
+      "id":42,
+      "rpTake":1,
+      "enable":true,
+      "name":"огнетушитель"
+    },{
+      "enable":true,
+      "rpTake":2,
+      "name":"фотоапарат",
+      "id":43
+    },{
+      "enable":false,
+      "rpTake":3,
+      "name":"ПНВ",
+      "id":44
+    },{
+      "enable":false,
+      "rpTake":3,
+      "name":"тепловизор",
+      "id":45
+    },{
+      "enable":true,
+      "rpTake":1,
+      "name":"парашют",
+      "id":46
+    },{
+      "enable":false,
+      "rpTake":1,
+      "name":"т/с",
+      "id":49
+    },{
+      "enable":false,
+      "rpTake":1,
+      "name":"лопасти вертолёта",
+      "id":50
+    },{
+      "enable":false,
+      "rpTake":1,
+      "name":"гранату",
+      "id":51
+    },{
+      "enable":false,
+      "rpTake":1,
+      "name":"коллизию/тюнинг",
+      "id":54
+    },{
+      "range":35,
+      "id":71,
+      "rpTake":4,
+      "enable":true,
+      "name":"пистолет Desert Eagle Steel"
+    },{
+      "range":35,
+      "id":72,
+      "rpTake":4,
+      "enable":true,
+      "name":"пистолет Desert Eagle Gold"
+    },{
+      "range":35,
+      "id":73,
+      "rpTake":4,
+      "enable":true,
+      "name":"пистолет Glock Gradient"
+    },{
+      "range":35,
+      "id":74,
+      "rpTake":4,
+      "enable":true,
+      "name":"пистолет Desert Eagle Flame"
+    },{
+      "range":50,
+      "id":75,
+      "rpTake":4,
+      "enable":true,
+      "name":"пистолет Python Royal"
+    },{
+      "range":50,
+      "id":76,
+      "rpTake":4,
+      "enable":true,
+      "name":"пистолет Python Silver"
+    },{
+      "range":60,
+      "id":77,
+      "rpTake":1,
+      "enable":true,
+      "name":"автомат AK-47 Roses"
+    },{
+      "range":60,
+      "id":78,
+      "rpTake":1,
+      "enable":true,
+      "name":"автомат AK-47 Gold"
+    },{
+      "range":90,
+      "id":79,
+      "rpTake":1,
+      "enable":true,
+      "name":"пулемёт M249 Graffiti"
+    },{
+      "range":40,
+      "id":80,
+      "rpTake":1,
+      "enable":true,
+      "name":"золотую Сайгу"
+    },{
+      "range":45,
+      "id":81,
+      "rpTake":4,
+      "enable":true,
+      "name":"ПП Standart"
+    },{
+      "range":90,
+      "id":82,
+      "rpTake":1,
+      "enable":true,
+      "name":"пулемёт M249"
+    },{
+      "range":35,
+      "id":83,
+      "rpTake":4,
+      "enable":true,
+      "name":"ПП Skorp"
+    },{
+      "range":65,
+      "id":84,
+      "rpTake":1,
+      "enable":true,
+      "name":"автомат AKS74 камуфляжный"
+    },{
+      "range":65,
+      "id":85,
+      "rpTake":1,
+      "enable":true,
+      "name":"автомат AK47 камуфляжный"
+    },{
+      "range":40,
+      "id":86,
+      "rpTake":1,
+      "enable":true,
+      "name":"дробовик Rebecca"
+    },{
+      "range":35,
+      "id":87,
+      "rpTake":1,
+      "enable":true,
+      "name":"Doomgun"
+    },{
+      "enable":true,
+      "rpTake":1,
+      "name":"ледяной меч",
+      "id":88
+    },{
+      "range":35,
+      "id":89,
+      "rpTake":4,
+      "enable":true,
+      "name":"портальную пушку"
+    },{
+      "enable":true,
+      "rpTake":3,
+      "name":"оглушающую гранату",
+      "id":90
+    },{
+      "enable":true,
+      "rpTake":3,
+      "name":"ослепляющую гранату",
+      "id":91
+    },{
+      "range":100,
+      "id":92,
+      "rpTake":1,
+      "enable":true,
+      "name":"снайперскую винтовку TAC50"
+    },{
+      "range":12,
+      "id":93,
+      "rpTake":4,
+      "enable":true,
+      "name":"оглушающий пистолет"
+    },{
+      "range":35,
+      "id":94,
+      "rpTake":1,
+      "enable":true,
+      "name":"снежную пушку"
+    },{
+      "range":35,
+      "id":95,
+      "rpTake":3,
+      "enable":true,
+      "name":"пиксельный бластер"
+    },{
+      "range":90,
+      "id":96,
+      "rpTake":1,
+      "enable":true,
+      "name":"автомат M4 Gold"
+    },{
+      "range":40,
+      "id":97,
+      "rpTake":1,
+      "enable":true,
+      "name":"бандитский дробовик"
+    },{
+      "range":35,
+      "id":98,
+      "rpTake":4,
+      "enable":true,
+      "name":"ПП Uzi Graffiti"
+    },{
+      "enable":true,
+      "rpTake":1,
+      "name":"золотую монтировку",
+      "id":99
+    },{
+      "enable":true,
+      "rpTake":1,
+      "name":"биту Compton",
+      "id":100
+    },{
+      "range":35,
+      "id":101,
+      "rpTake":4,
+      "enable":true,
+      "name":"пистолет SciFi Deagle"
+    },{
+      "range":65,
+      "id":102,
+      "rpTake":1,
+      "enable":true,
+      "name":"автомат SciFi AK47"
+    },{
+      "range":40,
+      "id":103,
+      "rpTake":1,
+      "enable":true,
+      "name":"дробовик SciFi"
+    },{
+      "enable":true,
+      "rpTake":3,
+      "name":"нож SciFi",
+      "id":104
+    },{
+      "enable":false,
+      "rpTake":4,
+      "name":"сканер",
+      "id":105
+    },{
+      "enable":true,
+      "rpTake":3,
+      "name":"золотой нож",
+      "id":106
+    },{
+      "enable":true,
+      "rpTake":1,
+      "name":"катану Нир",
+      "id":107
+    },{
+      "enable":true,
+      "rpTake":3,
+      "name":"невидимый нож",
+      "id":108
+    },{
+      "range":12,
+      "id":109,
+      "rpTake":4,
+      "enable":true,
+      "name":"электрошокер Taser X26P"
+    },{
+      "enable":true,
+      "rpTake":1,
+      "name":"огненную кирку",
+      "id":110
+    }]
+}

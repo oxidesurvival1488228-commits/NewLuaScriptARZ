@@ -1,0 +1,14 @@
+[{
+    "icon":"SHIELD",
+    "action":"/armour",
+    "pos":{
+      "x":100,
+      "y":400
+    },
+    "size":{
+      "x":100,
+      "y":25
+    },
+    "name":"Броник",
+    "enable":true
+  }]

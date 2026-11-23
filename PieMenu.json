@@ -1,0 +1,25 @@
+[{
+    "icon":"CLOCK",
+    "name":"Время",
+    "action":"/time"
+  },{
+    "icon":"TOILET",
+    "name":"Анимка",
+    "action":"/piss"
+  },{
+    "icon":"CAR",
+    "name":"Т/С",
+    "next":[{
+        "icon":"",
+        "name":"Ремка",
+        "action":"/repcar"
+      },{
+        "icon":"",
+        "name":"Канистра",
+        "action":"/fillcar"
+      }]
+  },{
+    "icon":"GUN",
+    "name":"Оружие",
+    "action":"/gun"
+  }]

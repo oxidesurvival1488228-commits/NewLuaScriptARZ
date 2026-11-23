@@ -1,0 +1,7 @@
+{
+  "standart_color":[0,255,255],
+  "enemy_color":[255,0,0],
+  "check_weapon_range":true,
+  "show_weapon_range":true,
+  "is_legendary_stripe":false
+}
